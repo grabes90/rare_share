@@ -26,6 +26,10 @@ group :development, :test do
   gem 'better_errors'
   gem 'capybara'
   gem 'binding_of_caller'
+  gem 'factory_girl_rails'
+  gem 'capybara'
+  gem 'selenium-webdriver'
+  gem 'launchy'
 end
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
